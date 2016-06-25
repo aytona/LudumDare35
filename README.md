@@ -1,6 +1,10 @@
-# LudumDare35
-Ludum Dare 35 Game Jam
+# PeanutsGame
+## Description
+A matching game that was originally for LudumDare 35. Created using Unity 4.7 game engine.
 
-### Theme : Shapeshift
+## LudumDare 35
+Theme: Shapeshift
 
-<b>Unity Version : 4.7</b>
+## How to download
+* Must have Unity editor
+* Fork or download repository
