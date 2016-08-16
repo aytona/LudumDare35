@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 63db3243644e5ae4d8a6612967b43d6b
+timeCreated: 1471323416
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: round_nodetails_0
+    21300002: round_nodetails_1
+    21300004: round_nodetails_2
+    21300006: round_nodetails_3
+    21300008: round_nodetails_4
+    21300010: round_nodetails_5
+    21300012: round_nodetails_6
+    21300014: round_nodetails_7
+    21300016: round_nodetails_8
+    21300018: round_nodetails_9
+    21300020: round_nodetails_10
+    21300022: round_nodetails_11
+    21300024: round_nodetails_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: round_nodetails_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1789
+        width: 257
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: round_nodetails_1
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1789
+        width: 257
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: round_nodetails_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1530
+        width: 257
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: round_nodetails_4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1530
+        width: 257
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: round_nodetails_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1271
+        width: 257
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: round_nodetails_7
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1271
+        width: 257
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: round_nodetails_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1012
+        width: 257
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: round_nodetails_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 753
+        width: 257
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: round_nodetails_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 494
+        width: 257
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: round_nodetails_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 235
+        width: 257
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
