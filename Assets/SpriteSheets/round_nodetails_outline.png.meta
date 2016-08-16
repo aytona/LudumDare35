@@ -1,9 +1,19 @@
 fileFormatVersion: 2
 guid: d0c79210066ec0444a6b673c1a48f3a1
-timeCreated: 1471322703
+timeCreated: 1471385206
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: round_nodetails_outline_0
+    21300002: round_nodetails_outline_1
+    21300004: round_nodetails_outline_3
+    21300006: round_nodetails_outline_4
+    21300008: round_nodetails_outline_6
+    21300010: round_nodetails_outline_7
+    21300012: round_nodetails_outline_9
+    21300014: round_nodetails_outline_10
+    21300016: round_nodetails_outline_11
+    21300018: round_nodetails_outline_12
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -56,7 +66,137 @@ TextureImporter:
     allowsAlphaSplitting: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: round_nodetails_outline_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1761
+        width: 285
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: round_nodetails_outline_1
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1761
+        width: 285
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: round_nodetails_outline_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1474
+        width: 285
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: round_nodetails_outline_4
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1474
+        width: 285
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: round_nodetails_outline_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1187
+        width: 285
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: round_nodetails_outline_7
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1187
+        width: 285
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: round_nodetails_outline_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 285
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: round_nodetails_outline_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 613
+        width: 285
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: round_nodetails_outline_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 326
+        width: 285
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: round_nodetails_outline_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 285
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
     outline: []
   spritePackingTag: 
   userData: 

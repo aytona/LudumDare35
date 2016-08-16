@@ -1,9 +1,19 @@
 fileFormatVersion: 2
 guid: dc011c64c557c354385bbd6ada76f698
-timeCreated: 1471322703
+timeCreated: 1471383859
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: square_nodetails_outline_0
+    21300002: square_nodetails_outline_2
+    21300004: square_nodetails_outline_4
+    21300006: square_nodetails_outline_5
+    21300008: square_nodetails_outline_7
+    21300010: square_nodetails_outline_8
+    21300012: square_nodetails_outline_10
+    21300014: square_nodetails_outline_11
+    21300016: square_nodetails_outline_13
+    21300018: square_nodetails_outline_14
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -56,7 +66,137 @@ TextureImporter:
     allowsAlphaSplitting: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: square_nodetails_outline_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1762
+        width: 285
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: square_nodetails_outline_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1476
+        width: 285
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: square_nodetails_outline_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1190
+        width: 285
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: square_nodetails_outline_5
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1190
+        width: 285
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: square_nodetails_outline_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 904
+        width: 285
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: square_nodetails_outline_8
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 904
+        width: 285
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: square_nodetails_outline_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 618
+        width: 285
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: square_nodetails_outline_11
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 618
+        width: 285
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: square_nodetails_outline_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 332
+        width: 285
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: square_nodetails_outline_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 46
+        width: 285
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
     outline: []
   spritePackingTag: 
   userData: 
