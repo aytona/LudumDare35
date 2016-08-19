@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.SceneManagement;
 
-namespace Aytona.UI
+namespace Aytona.UI.Canvas
 {
     class MenuUI : MonoBehaviour
     {
