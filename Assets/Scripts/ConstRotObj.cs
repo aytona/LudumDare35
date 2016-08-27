@@ -7,7 +7,7 @@ namespace Aytona.Effects
         public Vector3 rotation;
         void Update()
         {
-            gameObject.transform.Rotate(rotation);
+            gameObject.transform.Rotate(rotation * Time.deltaTime);
         }
     }
 

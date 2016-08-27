@@ -5,7 +5,7 @@ namespace Aytona.UI.Canvas
 {
     class MenuUI : MonoBehaviour
     {
-        public GameObject[] canvases;
+        public GameObject[] canvases = null;
 
         public void StartGame()
         {
