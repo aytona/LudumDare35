@@ -12,7 +12,7 @@ PlayerSettings:
   accelerometerFrequency: 60
   companyName: Christopher Aytona
   productName: PeanutsGame
-  defaultCursor: {fileID: 2800000, guid: 08ae2525a95c5d7459994c6cc10ff1e0, type: 3}
+  defaultCursor: {fileID: 2800000, guid: 368a441bf6f785e4fb702b3aaa82e863, type: 3}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenStyle: 0
   m_ShowUnitySplashScreen: 1
