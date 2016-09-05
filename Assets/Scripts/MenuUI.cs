@@ -12,11 +12,6 @@ namespace Aytona.UI.Canvas
             SceneManager.LoadScene(1);
         }
 
-        public void QuitGame()
-        {
-            Application.Quit();
-        }
-
         public void SwitchCanvas(string target)
         {
             foreach(GameObject canvas in canvases)
